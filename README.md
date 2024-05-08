@@ -4,7 +4,7 @@ As a **web developer** currently employed at a **multinational corporation**, I 
 
 Driven by a relentless pursuit of mastery, I immerse myself in the intricacies of TypeScript, leveraging its capabilities to enhance the robustness and efficiency of my codebase. My journey is defined by a continuous quest for improvement, where every project serves as an opportunity to refine my craft and elevate my expertise.
 
-### Background and Journey into Development
+### 🚀 Background and Journey into Development
 
 My journey into the world of development began in 2014 at the age of 13, when I encountered a computer science class in my school. Intrigued by the possibilities, I embarked on a self-directed path of exploration and learning. Starting with HTML, CSS, and JS, I gradually expanded my repertoire to include PHP, MySQL, and ventured into mastering new technologies.
 
